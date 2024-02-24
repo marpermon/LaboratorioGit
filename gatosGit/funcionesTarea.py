@@ -26,6 +26,9 @@ class gato:
     def nombre(self, nuevo_nombre):
         self.__nombre = nuevo_nombre     
 
+
+    SIADUSUFIDG
+
     @edad.setter
     def edad(self, nuevo_anio):
         self.__edad = nuevo_anio 
